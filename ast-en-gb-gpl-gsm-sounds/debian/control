@@ -1,0 +1,10 @@
+Source: ast-en-gb-gpl-gsm-sounds
+Section: network
+Priority: extra
+Maintainer: CoCo <admin@aelintra.com>
+
+Package: ast-en-gb-gpl-gsm-sounds
+Architecture: all
+Depends: ${misc:Depends}, asterisk  
+Description: SARK  Asterisk Integration Layer (SAIL) - A fast, lightweight switch for Asterisk
+ SARK  Asterisk Integration Layer (SAIL).  Admin and backend code to configure and build Asterisk dialplans on the fly.

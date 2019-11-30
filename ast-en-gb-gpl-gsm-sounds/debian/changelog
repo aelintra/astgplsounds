@@ -1,0 +1,6 @@
+ast-en-gb-gpl-gsm-sounds (5.0.0-1) UNRELEASED; urgency=low
+  * UK sounds package for V5.1 deb9
+  - Initial packaging
+
+ -- CoCoSoft <admin@aelintra.com>  Sat, 17 Feb 2018 18:00:00 +0000
+
